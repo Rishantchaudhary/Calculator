@@ -1,0 +1,36 @@
+body{
+  background-image: url('image3.jpg')
+}
+
+div {
+    background-color: #CCD1D1;
+    width: 333px;
+    height: 400px;
+    border-radius: 20px;
+    margin-left: 473px;
+    margin-top: 100px;
+    display: inline-block;
+    border:5px solid;
+    position: relative;
+
+  }
+.input1 {
+    font-size: 24px;
+    padding-top: 24px;
+    margin-top: 16px;
+    margin-left: 17px;
+    border-radius: 8px;
+}
+div table{
+  margin: auto;
+  padding-top: 25px;
+  padding-bottom: 14px;
+}
+button {
+    font-size: 23px;
+    background: black;
+    border-radius: 10px;
+    height: 51px;
+    width: 64px;
+    color: white;
+}
